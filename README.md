@@ -15,7 +15,8 @@ Ogni cartella contiene un progetto specifico e un README con una breve descrizio
 
 Puoi esplorare i file direttamente su GitHub o scaricare le cartelle per una visione più approfondita.  
 
-> 📌 **Nota:** Alcuni file potrebbero essere ottimizzati per il web. Per una qualità originale, fai riferimento alle descrizioni nei README delle singole cartelle.  
+> 📌 **Nota:** Alcuni file potrebbero essere ottimizzati per il web.
+> Per una qualità originale, fai riferimento alle descrizioni nei README delle singole cartelle.  
 
 ## 🚀 Contatti  
 
