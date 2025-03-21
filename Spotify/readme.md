@@ -10,10 +10,6 @@ Ispirandosi allo stile di **Spotify**, il lavoro include un montaggio realistico
 - Esempi di layout basati sul copywriting  
 - Mockup realistico in ambiente urbano  
 
-## 📂 File inclusi  
-- **/Grafica/** → Elaborati visivi e varianti  
-- **/Mockup/** → Simulazione del poster in contesto reale  
-
 ---
 
 📌 *Questo progetto è un'esercitazione e non è legato ufficialmente a Spotify.*  
