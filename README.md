@@ -4,7 +4,7 @@ Catalogo personale che racchiude i miei lavori, indipendentemente dal loro conte
 ```md
 # 🎨 Il Mio Portfolio Creativo  
 
-Qui troverai una raccolta dei miei lavori di **grafica, video e copywriting**,
+Qui troverai una raccolta dei miei lavori di grafica, video e copywriting ,
 organizzati in sezioni chiare per una navigazione intuitiva.  
 
 ## 📂 Struttura del Repository  
