@@ -11,10 +11,6 @@ attraverso l’uso di immagini evocative, colori caratteristici e riferimenti st
 - **Palette ispirata** ai toni caldi della sabbia e ai verdi tipici dell'Arabia Saudita.  
 - **Tipografia e loghi** evocativi dell'identità culturale della regione.  
 
-## 📂 File inclusi  
-- `paesaggi-arabia.png` → Illustrazione principale  
-- `loghi-studio.png` → Studio grafico di loghi ispirati alla cultura saudita  
-
 ---
 
 📌 *Questo progetto è puramente esplorativo e senza alcuna affiliazione ufficiale.*  
