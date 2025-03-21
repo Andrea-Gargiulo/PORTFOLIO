@@ -26,3 +26,7 @@ Il file può essere visualizzato direttamente su GitHub oppure scaricato per un'
 ---
 
 📌 *Progetto realizzato a scopo sperimentale e concettuale, senza affiliazioni ufficiali con brand o istituzioni finanziarie.*  
+
+---
+![prodotto finale 3240x2160](https://github.com/user-attachments/assets/cb6ca0f9-dae7-4730-af49-6b60b66ceaef)
+---
