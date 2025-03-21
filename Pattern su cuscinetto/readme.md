@@ -15,3 +15,7 @@ Il design si distingue per il contrasto tra la morbidezza della forma e i dettag
 ---  
 
 📌 *Progetto realizzato per sperimentazione grafica e pattern design.*  
+
+---
+![cuscinetto](https://github.com/user-attachments/assets/6dfe215f-9f52-4648-a5be-6a5ce84651d4)
+---
