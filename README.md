@@ -21,4 +21,5 @@ Puoi esplorare i file direttamente su GitHub o scaricare le cartelle per una vis
 
 ## 🚀 Contatti  
 
-📧 **Email:** [Inserisci il tuo contatto] 
+📧 **Email:** andrea.gargiulo@fitstic-edu.com
+ 
