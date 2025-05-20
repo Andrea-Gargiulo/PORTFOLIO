@@ -25,6 +25,10 @@ Il file può essere visualizzato direttamente su GitHub oppure scaricato per ess
 
 ---
 
+![locandina_microbiologia del compost (1)](https://github.com/user-attachments/assets/7b829719-b5be-4469-b2c5-a071694ce4e4)
+
+
+
 📌 *Progetto grafico ufficiale, affiliato ufficialmente con la cooperativa ospitante.*  
 
 ---
