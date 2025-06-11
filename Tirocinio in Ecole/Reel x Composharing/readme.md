@@ -1,7 +1,7 @@
 🎥 Reel Portfolio – Video di presentazione
 
 📖 Descrizione  
-Questo video è una selezione dei miei progetti grafici e visivi, montati in un reel dinamico pensato per mostrare competenze, stile e versatilità. Il video è stato pubblicato sui canali professionali come sintesi visiva del workshop avvenuto.
+Questo video è un reel dinamico pensato per mostrare competenze, stile e versatilità. Il video è stato pubblicato sui canali professionali come sintesi visiva del workshop avvenuto.
 
 🎨 Dettagli Tecnici  
 Durata: 45 secondi  
