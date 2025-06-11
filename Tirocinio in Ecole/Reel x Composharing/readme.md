@@ -13,7 +13,5 @@ Audio: Musica royalty-free scelta per enfatizzare ritmo e tono professionale
 Il reel è costruito con l'obiettivo di raccontare visivamente l'evento in pochi secondi. Ho selezionato frammenti di evento filmati da me, cercando di far notare l'attenzione al dettaglio e la capacità di comunicare attraverso le immagini e i video.
 
 🖥️ Visualizzazione  
-Il video può essere visualizzato direttamente in questa cartella o scaricato per la visione offline. 
+Per essere visualizzato, accedere al link contenuto nel file apposito. 
 
-📂 File incluso  
-`0604(1)(1).mp4` → Video reel in alta qualità
